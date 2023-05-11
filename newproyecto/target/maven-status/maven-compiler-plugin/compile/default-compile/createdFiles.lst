@@ -8,6 +8,7 @@ com\portfolio2\newproyecto\Dto\dtoEducacion.class
 com\portfolio2\newproyecto\Entity\Persona.class
 com\portfolio2\newproyecto\Security\Service\UserDetailsImpl.class
 com\portfolio2\newproyecto\Service\SEducacion.class
+com\portfolio2\newproyecto\WebConfig.class
 com\portfolio2\newproyecto\Security\Entity\UsuarioPrincipal.class
 com\portfolio2\newproyecto\Security\Dto\LoginUsuario.class
 com\portfolio2\newproyecto\Dto\dtoPersona.class
